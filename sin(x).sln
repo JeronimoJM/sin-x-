@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sin(x)", "sin(x)\sin(x).csproj", "{0611480B-C072-46D2-A685-1E5976BB5CE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0611480B-C072-46D2-A685-1E5976BB5CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0611480B-C072-46D2-A685-1E5976BB5CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0611480B-C072-46D2-A685-1E5976BB5CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0611480B-C072-46D2-A685-1E5976BB5CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BB25B81-0DA7-4853-8BEE-1BF032884BEB}
+	EndGlobalSection
+EndGlobal
